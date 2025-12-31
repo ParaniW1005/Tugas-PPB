@@ -33,7 +33,7 @@ Tugas Anda adalah melakukan **Debugging** dan **Refactor** (jika perlu) untuk me
    - _UI & Validation_ (Tampilan dan Input)
 
 ## Kriteria Keberhasilan
-
+g
 Aplikasi dianggap "selesai" jika:
 
 - `flutter pub get` berhasil tanpa konflik.
